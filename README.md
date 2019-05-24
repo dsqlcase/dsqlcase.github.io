@@ -1,12 +1,4 @@
 # DSQLCASE
 
-Download DSQLCASE
-
-[Experiment]()
-
-
-
-[a relative link](experiment/DSQL-experiment.pdf)
-
-<a href="myFile.js" download>Click to Download</a>
+[Download the queries used in the experiment comparing DSQL with SQL](experiment/DSQL-experiment.pdf)
 
