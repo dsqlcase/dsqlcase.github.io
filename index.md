@@ -1,11 +1,15 @@
-## An expressive Visual Query Language (VQL) that favor the modeling of complex SQL queries
-
+An expressive Visual Query Language (VQL) that favor the modeling of complex SQL queries
 
 ## Experiment comparing DSQL with SQL
 
 [Queries Team A and Team B](experiment/questions.pdf)
 
 [Course material](experiment/course.pdf)
+
+
+## Systematc Literature Review 
+
+[Technical report](slr/technical-report.pdf)
 
 
 ## Download
