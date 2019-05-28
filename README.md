@@ -4,13 +4,15 @@ An expressive Visual Query Language (VQL) that favor the modeling of complex SQL
 
 
 
-## Experiment
+## Experiment comparing DSQL with SQL
 
-[Download the queries used in the experiment comparing DSQL with SQL](experiment/DSQL-experiment.pdf)
+[Queries Team A and Team B](experiment/questions.pdf)
+
+[Course material](experiment/course.pdf)
 
 
 
 ## Download
 
-[Prototype (version 0.1)](experiment/DSQL-experiment.pdf)
+[Prototype (version 0.1)](experiment/questions.pdf)
 
