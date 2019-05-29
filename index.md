@@ -8,7 +8,7 @@ An expressive Visual Query Language (VQL) for modeling complex SQL queries
 
 ## Systematic Literature Review
 
-[Technical report](slr/technical-report.pdf)
+[Technical report](slr/technical_report.pdf)
 
 ## Download
 
