@@ -1,4 +1,4 @@
-An expressive Visual Query Language (VQL) that favor the modeling of complex SQL queries
+An expressive Visual Query Language (VQL) for modeling complex SQL queries
 
 ## Experiment comparing DSQL with SQL
 
@@ -6,13 +6,11 @@ An expressive Visual Query Language (VQL) that favor the modeling of complex SQL
 
 [Course material](experiment/course.pdf)
 
-
-## Systematc Literature Review 
+## Systematic Literature Review
 
 [Technical report](slr/technical-report.pdf)
 
-
 ## Download
 
-[Prototype (version 0.1)](experiment/questions.pdf)
+[Prototype (version 0.1)](https://github.com/dsqlcase/dsqlcase.github.io/releases)
 
