@@ -8,11 +8,11 @@ An expressive Visual Query Language (VQL) for modeling complex SQL queries
 
 [Letter of consent](experiment/consentletter.pdf)
 
-## Systematic Literature Review
+<!-- ## Systematic Literature Review -->
 
-[Technical report](slr/report.pdf)
+<!-- [Technical report](slr/report.pdf) -->
 
 ## Download
 
-[Prototype (version 0.1)](https://github.com/dsqlcase/dsqlcase.github.io/releases)
+[Prototype (version 0.2)](https://github.com/dsqlcase/dsqlcase.github.io/releases)
 
